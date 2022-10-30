@@ -25,16 +25,16 @@
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Tableau - version 2022.2
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Weapons filter through:
+> General category
+> Individual weapons across the statistics avaiilable under 'Attack Power'
+> Summary of Guarded Damage Negation statistics
+> Tooltip and Image preview of weapons
 
 
 ## Screenshots
