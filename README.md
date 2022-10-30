@@ -44,9 +44,9 @@ In order to run the dashboard with images you will need to download each folder,
 3. My Tableau Repository ->
 4. Shapes 
 
-_Note that the Tableau dashboard will appear in different proportions depending on whatver screen resolution/size you are opening it on. I developed my project with Tableau on a 4K display_
+_Note that the Tableau dashboard will appear in different proportions depending on whatver screen resolution/size you are opening it on. I developed my project with Tableau on a 4K display_.
 
-Depending on your PC specs, the dashboard will most likely run with different levels of lag. my PC runs with 16GB RAM and I would consider that a minimum requirement to run the dashboard smoothly.__
+_Depending on your PC specs, the dashboard will most likely run with different levels of lag. My PC runs with 16GB RAM and I would consider that the minimum standard requirement to run the dashboard smoothly_.
 
 
 ## Usage
