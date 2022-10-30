@@ -26,14 +26,13 @@
 
 ## Technologies Used
 - Tableau - version 2022.2 
-![alt text](tableau_logo.png)
 
 
 ## Features
 List the ready features here:
-- Weapons filter through:
-> General category
-> Individual weapons across the statistics avaiilable under 'Attack Power'
+- Weapons filter through
+...- general category
+...- Weapons through Individual weapons across the statistics avaiilable under 'Attack Power'
 > Summary of Guarded Damage Negation statistics
 > Tooltip and Image preview of weapons
 
