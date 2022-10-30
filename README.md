@@ -1,12 +1,12 @@
 # Elden Ring Weapons Dashboard
-> Outline a brief description of your project.
-> 
+> In this project I created a interactive dashboard using Tableau that features visualisations of weapons data from the 2022 FromSoftware game Elden Ring. 
+
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Data Sources](#data-sources)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -17,19 +17,17 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The aim of this project was to create a visual tool intended to be used for efficiently and effetively parsing through data. The idea of this artefact came about from the large scope and volume of weapons and their statistics available from Elden Ring and I undertook this project out of a combined interest in data visualisation and the game itself. I think that using data visualisation to mkae information more accessible and searchable is a powerful tool that could be used for many things outside of game data and statistics.
 
 
 ## Technologies Used
-- Tableau - version 2022.2 
+- Tableau - version 2022.2
+
+
+## Data Sources
 
 
 ## Features
-List the ready features here:
 - Weapons selection that filters data through a general category
 - Filtering through Individual weapons across the statistics avaiilable under 'Attack Power'
 - Summary of Guarded Damage Negation statistics
@@ -37,12 +35,7 @@ List the ready features here:
 - Weight and average median weight visualisation 
 
 
-## Setup
-
-*Note that the Tableau dashboard will appear in different proportions depending on whatver screen resolution/size you are opening it on. I developed my project with Tableau on a 4K display.
-
-Depending on your PC specs, the dashboard will most likely run with different levels of lag. my PC runs with 16GB RAM and I would consider that a minimum requirement to run the dashboard smoothly.
-
+## Setup and Launch
 Clicking the link below will take you to a sharepoint where you can download the work book. Alternatively the raw file is available for download in the repository above
 
 In order to run the dashboard with images you will need to download each folder, found here and upload them into the 'Shapes' folder located within the 'My Tableau Repository'. These files can be located and accessed by going to:
@@ -51,12 +44,13 @@ In order to run the dashboard with images you will need to download each folder,
 3. My Tableau Repository ->
 4. Shapes 
 
+*_Note that the Tableau dashboard will appear in different proportions depending on whatver screen resolution/size you are opening it on. I developed my project with Tableau on a 4K display.
+
+Depending on your PC specs, the dashboard will most likely run with different levels of lag. my PC runs with 16GB RAM and I would consider that a minimum requirement to run the dashboard smoothly._
+
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+Using and naviagting this interative dashboard is relatively straightforward and simple. By Selected filters from the menu on the right hand side 
 
 
 ## Project Status
