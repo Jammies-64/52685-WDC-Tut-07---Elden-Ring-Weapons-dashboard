@@ -12,7 +12,6 @@
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 <!-- * [License](#license) -->
 
 
@@ -70,14 +69,10 @@ To do:
 
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was based on [this tutorial](https://www.youtube.com/watch?v=rJsaezoTVAE)
+- This README template was created by [@flynerdpl](https://www.flynerd.pl/)
 
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 
 <!-- Optional -->
