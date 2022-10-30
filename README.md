@@ -31,8 +31,8 @@
 ## Features
 List the ready features here:
 - Weapons filter through
-...- general category
-...- Weapons through Individual weapons across the statistics avaiilable under 'Attack Power'
+⋅⋅⋅- general category
+⋅⋅⋅- Weapons through Individual weapons across the statistics avaiilable under 'Attack Power'
 > Summary of Guarded Damage Negation statistics
 > Tooltip and Image preview of weapons
 
