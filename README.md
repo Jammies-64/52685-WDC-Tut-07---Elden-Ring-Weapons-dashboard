@@ -56,6 +56,6 @@ Project is: _complete_
 
 ## Acknowledgements
 - This project was inspired by [Chelsea Duncan's A3](https://web.microsoftstream.com/video/c7aa1c2b-f835-413d-9f0c-0a305e1d1ec1?list=user&userId=4d7a19f8-202f-450a-9175-4909c9ba805e)(from 52685 Working with Data and Code 2021)
-- This project was based on [this tutorial](https://www.youtube.com/watch?v=rJsaezoTVAE)
+- This project used [this tutorial](https://www.youtube.com/watch?v=rJsaezoTVAE) in parts of development
 - This README template was created by [@flynerdpl](https://www.flynerd.pl/)
 
