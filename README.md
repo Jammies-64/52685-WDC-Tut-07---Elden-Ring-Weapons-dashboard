@@ -30,21 +30,26 @@
 
 ## Features
 List the ready features here:
-- Filtering through general category
+- Weapons selection that filters data through a general category
 - Filtering through Individual weapons across the statistics avaiilable under 'Attack Power'
-> Summary of Guarded Damage Negation statistics
-> Tooltip and Image preview of weapons
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+- Summary of Guarded Damage Negation statistics
+- Tooltip and Image preview of weapons
+- Weight and average median weight visualisation 
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+*Note that the Tableau dashboard will appear in different proportions depending on whatver screen resolution/size you are opening it on. I developed my project with Tableau on a 4K display.
+
+Depending on your PC specs, the dashboard will most likely run with different levels of lag. my PC runs with 16GB RAM and I would consider that a minimum requirement to run the dashboard smoothly.
+
+Clicking the link below will take you to a sharepoint where you can download the work book. Alternatively the raw file is available for download in the repository above
+
+In order to run the dashboard with images you will need to download each folder, found here and upload them into the 'Shapes' folder located within the 'My Tableau Repository'. These files can be located and accessed by going to:
+1. File directory ->
+2. Documents ->
+3. My Tableau Repository ->
+4. Shapes 
 
 
 ## Usage
