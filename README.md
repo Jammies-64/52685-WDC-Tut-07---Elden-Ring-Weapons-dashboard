@@ -10,9 +10,7 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
-<!-- * [License](#license) -->
 
 
 ## General Information
@@ -35,9 +33,9 @@ The aim of this project was to create a visual tool intended to be used for effi
 
 
 ## Setup and Launch
-Clicking the link below will take you to a sharepoint where you can download the work book. Alternatively the raw file is available for download in the repository above
+Clicking [here] will take you to a sharepoint where you can download the work book. Alternatively the raw file is available for download in the repository above.
 
-In order to run the dashboard with images you will need to download each folder, found here and upload them into the 'Shapes' folder located within the 'My Tableau Repository'. These files can be located and accessed by going to:
+In order to run the dashboard with all assets (images) you will need to download each folder, found [here] and upload them into the 'Shapes' folder located within the 'My Tableau Repository'. These files can be located and accessed by going to your PC's:
 1. File directory ->
 2. Documents ->
 3. My Tableau Repository ->
@@ -49,34 +47,15 @@ _Depending on your PC specs, the dashboard will most likely run with different l
 
 
 ## Usage
-Using and naviagting this interative dashboard is relatively straightforward and simple. By Selected filters from the menu on the right hand side 
+Using and naviagting this interative dashboard is relatively straightforward and simple. By Selected filters from the menu on the right hand side and further browsing general weapons categories through the task bar up top, 
 
 
 ## Project Status
 Project is: _complete_ 
 
 
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
 ## Acknowledgements
-- This project was inspired by...
+- This project was inspired by [Chelsea Duncan's A3](https://web.microsoftstream.com/video/c7aa1c2b-f835-413d-9f0c-0a305e1d1ec1?list=user&userId=4d7a19f8-202f-450a-9175-4909c9ba805e)(from 52685 Working with Data and Code 2021)
 - This project was based on [this tutorial](https://www.youtube.com/watch?v=rJsaezoTVAE)
 - This README template was created by [@flynerdpl](https://www.flynerd.pl/)
 
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
