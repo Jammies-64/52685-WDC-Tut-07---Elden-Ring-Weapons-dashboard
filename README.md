@@ -13,7 +13,7 @@
 
 
 ## General Information
-The aim of this project was to create a visual tool intended to be used for efficiently and effetively parsing through data. The idea of this artefact came about from the large scope and volume of weapons and their statistics available from Elden Ring and I undertook this project out of a combined interest in data visualisation and the game itself. I think that using data visualisation to mkae information more accessible and searchable is a powerful tool that could be used for many things outside of game data and statistics.
+The aim of this project was to create a visual tool intended to be used for effecicient and effective data browsing and comparison. The idea of this artefact came about from the large scope and volume of weapons and their statistics available from Elden Ring and I undertook this project out of a combined interest in data visualisation as well as the game itself. I think that using data visualisation to make information more accessible and searchable is a powerful tool that could be used for many things outside of game data and statistics, thus I wanted to use game data as an example to illustrate the possibilities with interactive data visualisations.
 
 
 ## Technologies Used
