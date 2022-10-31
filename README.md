@@ -17,7 +17,7 @@ The aim of this project was to create a visual tool intended to be used for effe
 
 
 ## Technologies Used
-- Tableau - version 2022.2
+- Tableau Desktop - version 2022.2
 
 
 ## Features
@@ -31,6 +31,8 @@ The aim of this project was to create a visual tool intended to be used for effe
 
 
 ## Setup and Launch
+To view the workbook you will have to download and install the latest version of Tableau Desktop (2022.2).
+
 Clicking [here](https://drive.google.com/file/d/1wKyIdw35kYPaGeJ1E4tfaFV0zwSeHteg/view?usp=sharing) will take you to a sharepoint where you can download the Tableau workbook. Alternatively the raw file is available for download in the repository above.
 
 In order to run the Tableau workbook correctly you will need to download the corresponding CSV file found [here](https://drive.google.com/file/d/1R3qGyfm1N1ggL-kLK6fFQsZHNmr8V6GU/view?usp=sharing). Upon opening up the workbook you may be prompted to mannually locate the file as the correct data source and connect it to tableau.
@@ -41,7 +43,7 @@ _Depending on your PC specs, the dashboard will most likely run with different l
 
 
 ## Usage
-Using and naviagting this interative dashboard is relatively straightforward and simple. By Selected filters from the menu on the right hand side and further browsing general weapons categories through the task bar up top.
+Using and naviagting this interative dashboard is relatively straightforward and simple. By Selected filters from the menu on the right hand side and further browsing general weapons categories through the task bar up top, users can look at the various weapons statistics with ease. This may be a useful tool for players to figure out what weapon would best suit their playstyle.
 
 
 ## Project Status
