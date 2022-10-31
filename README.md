@@ -41,7 +41,7 @@ _Depending on your PC specs, the dashboard will most likely run with different l
 
 
 ## Usage
-Using and naviagting this interative dashboard is relatively straightforward and simple. By Selected filters from the menu on the right hand side and further browsing general weapons categories through the task bar up top, 
+Using and naviagting this interative dashboard is relatively straightforward and simple. By Selected filters from the menu on the right hand side and further browsing general weapons categories through the task bar up top.
 
 
 ## Project Status
