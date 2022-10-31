@@ -50,6 +50,6 @@ Project is: _complete_
 
 ## Acknowledgements
 - This project was inspired by [Chelsea Duncan's A3](https://web.microsoftstream.com/video/c7aa1c2b-f835-413d-9f0c-0a305e1d1ec1?list=user&userId=4d7a19f8-202f-450a-9175-4909c9ba805e) (from 52685 Working with Data and Code 2021)
-- The original data for this project came from [Kaggle](https://www.kaggle.com/code/l3llff/elden-ring-weapon-eda/data?select=elden_ring_weapon.csv)
+- The original data for this project came from [l3LlFF](https://www.kaggle.com/code/l3llff/elden-ring-weapon-eda/data?select=elden_ring_weapon.csv) on Kaggle
 - This README template was created by [@flynerdpl](https://www.flynerd.pl/)
 
