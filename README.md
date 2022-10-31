@@ -31,7 +31,7 @@ The aim of this project was to create a visual tool intended to be used for effi
 
 
 ## Setup and Launch
-Clicking [here] will take you to a sharepoint where you can download the work book. Alternatively the raw file is available for download in the repository above.
+Clicking [here](https://drive.google.com/file/d/1wKyIdw35kYPaGeJ1E4tfaFV0zwSeHteg/view?usp=sharing) will take you to a sharepoint where you can download the work book. Alternatively the raw file is available for download in the repository above.
 
 In order to run the Tableau workbook correctly you will need to download the corresponding CSV file found [here]. Upon opening up the workbook you may be prompted to mannually locate the file as the correct data source and connect it to tableau.
 
